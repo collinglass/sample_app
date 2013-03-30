@@ -8,6 +8,7 @@
     <file path="/static_pages_spec.rb" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364676358322" ignored="false" />
     <file path="/routes.rb" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364676646823" ignored="false" />
     <file path="/static_pages_controller.rb" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364676708116" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364681300630" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +108,7 @@
         <option value="$PROJECT_DIR$/app/views/static_pages/contact.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
@@ -554,13 +556,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="3" selection-start="1215" selection-end="1215" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="5" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
@@ -653,6 +648,13 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="13" selection-start="122" selection-end="122" vertical-scroll-proportion="0.24960998">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="30" selection-start="629" selection-end="629" vertical-scroll-proportion="0.72386897">
           <folding />
         </state>
       </provider>
