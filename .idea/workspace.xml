@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" name="Default" comment="" />
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364676287305" ignored="false" />
     <file path="/static_pages_spec.rb" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364676358322" ignored="false" />
     <file path="/routes.rb" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364676646823" ignored="false" />
     <file path="/static_pages_controller.rb" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364676708116" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364681300630" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
