@@ -6,7 +6,7 @@
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364751093895" ignored="false" />
+    <file path="/Dummy.txt" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364751230570" ignored="false" />
     <file path="/static_pages_spec.rb" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364676358322" ignored="false" />
     <file path="/routes.rb" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364676646823" ignored="false" />
     <file path="/static_pages_controller.rb" changelist="5a7c03a1-732b-4b33-878f-a4b5c1b5a686" time="1364676708116" ignored="false" />
@@ -575,7 +575,11 @@
       <created>1364751095463</created>
       <updated>1364751095463</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finish layout and routes">
+      <created>1364751236035</created>
+      <updated>1364751236035</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
