@@ -1,5 +1,3 @@
-# Ruby on Rails Tutorial: sample application
+# Twitter-like App
 
-This is the sample application for
-[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+This is a twitter-like app written in rails.
